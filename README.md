@@ -4,8 +4,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="35cm" height="35cm" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="35cm" height="35cm"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="35cm" height="35cm"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="35cm" height="35cm"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="35cm" height="35cm"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35cm" height="35cm"/>
           
 <div>
-<a href="https://instagram.com/apolx_" target="_blank"><img loading="lazy"
-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/apolx_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
          
           
