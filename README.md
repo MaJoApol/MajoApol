@@ -1,4 +1,4 @@
-### <h3>Prazer, Maria Joana! :tulip:</h3>
+### <h3>Prazer, Maria Joana! </h3>
 - 🌱 I’m currently learning Python, HTML e C++.
 
 <!--
