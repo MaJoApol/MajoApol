@@ -16,9 +16,8 @@
 <a href="https://instagram.com/apolx_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
          
-          
-          
-          
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">          
+                  
           
 <!--
 **MaJoApol/MajoApol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
