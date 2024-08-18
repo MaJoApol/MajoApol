@@ -1,4 +1,4 @@
-### <h1>Prazer, Maria Joana! <img src="https://i.pinimg.com/564x/58/0a/0e/580a0ec4bc8c625671a7c97c285e2014.jpg" width="125" height="auto" align="center" /></h2> 
+### <h1>Prazer, Maria Joana! </h2> 
 
 - Aprendendo Atualmente...📚:<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="25cm" height="25cm" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="25cm" height="25cm"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="25cm" height="25cm"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="25cm" height="25cm"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="25cm" height="25cm"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25cm" height="25cm"/>
